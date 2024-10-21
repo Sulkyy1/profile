@@ -1,4 +1,4 @@
-@base <http://users.dcc.uchile.cl/~ahogan/foaf.ttl> . # Ubicación 
+@base <http://raw.githubusercontent.com/Sulkyy1/profile/refs/heads/main/foaf.ttl> . # Ubicación 
 
 @prefix sb: <https://es.wikipedia.org/wiki/Ryan_Gosling#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
