@@ -29,4 +29,5 @@
    social:likesMovie dbr:The_Lion_King , dbr:Fight_Club , dbr:Pulp_Fiction ;
    social:hasSpiritAnimal dbr:Raccoon ;
    social:hasFavouritePlatonicSolid dbr:Icosahedron ;
-   foaf:myersBriggs "ISFP" .
+   foaf:myersBriggs "ISFP" ;
+   foaf:Organization dbr:University_of_Chile .
