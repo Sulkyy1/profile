@@ -24,7 +24,7 @@
    foaf:familyName "Wilder" ;
    foaf:age 21 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
    foaf:img <https://upload.wikimedia.org/wikipedia/commons/a/a7/Pudu_puda_01.jpg> ;
-   foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> , <http://users.dcc.uchile.cl/~rzanca/foaf.ttl> , <https://raw.githubusercontent.com/cadaeic628/laboratorio_10_watos/refs/heads/main/foaf.ttl> , <https://raw.githubusercontent.com/javieraLabrin/javil.github.io/refs/heads/main/javieral.ttl> ;
+   foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> , <https://raw.githubusercontent.com/cadaeic628/laboratorio_10_watos/refs/heads/main/foaf.ttl#sm> , <https://raw.githubusercontent.com/javieraLabrin/javil.github.io/refs/heads/main/javieral.ttl#ah> ;
    foaf:interest dbr:Tennis, dbr:Soda_Stereo , dbr:Edgar_Allan_Poe ; 
    social:likesMovie dbr:The_Lion_King , dbr:Fight_Club , dbr:Pulp_Fiction ;
    social:hasSpiritAnimal dbr:Raccoon ;
